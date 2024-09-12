@@ -1,0 +1,93 @@
+{
+  "profileIcon": "https://example.com/profile-icon.png",
+  "profileScanner": "https://example.com/profile-scanner.png",
+  "profileShortDescription": "Experienced software engineer with a passion for developing scalable web applications.",
+  "personName": "John Doe",
+  "profession": "Software Engineer",
+  "job_organisation": "Tech Innovators Inc.",
+  "job_organisation_icon": "https://example.com/organisation-icon.png",
+  "LinksID": {
+    "facebook": "https://facebook.com/johndoe",
+    "github": "https://github.com/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "swipe": "https://swipe.com/johndoe",
+    "gmail": "mailto:johndoe@gmail.com"
+  },
+  "mobileNo": "+1234567890",
+  "whatsappNo": "+1234567890",
+  "emailAddress": "johndoe@example.com",
+  "website": "https://johndoe.com",
+  "telegram": "https://t.me/johndoe",
+  "address": "1234 Street Name, City, State, Country, ZIP",
+  "aboutMeDescription": "I am a highly motivated software engineer with over 10 years of experience in building enterprise-level applications.",
+  "services": [
+    {
+      "image": "https://example.com/service1.png",
+      "title": "Web Development",
+      "description": "Building responsive and scalable web applications."
+    },
+    {
+      "image": "https://example.com/service2.png",
+      "title": "Mobile App Development",
+      "description": "Creating user-friendly mobile applications for iOS and Android."
+    }
+  ],
+  "products": [
+    {
+      "image": "https://example.com/product1.png",
+      "title": "Product A",
+      "description": "High-quality product A description.",
+      "price": 100,
+      "offerPrice": 80,
+      "websiteLink": "https://example.com/productA"
+    },
+    {
+      "image": "https://example.com/product2.png",
+      "title": "Product B",
+      "description": "Best-selling product B description.",
+      "price": 150,
+      "offerPrice": 120,
+      "websiteLink": "https://example.com/productB"
+    }
+  ],
+  "offers": [],
+  "imageGallery": [
+    {
+      "image": "https://example.com/gallery1.png",
+      "title": "Gallery Image 1"
+    },
+    {
+      "image": "https://example.com/gallery2.png",
+      "title": "Gallery Image 2"
+    }
+  ],
+  "videoGallery": [
+    {
+      "videoLink": "https://example.com/video1.mp4",
+      "title": "Introduction Video"
+    }
+  ],
+  "importantLinks": [
+    "https://example.com/link1",
+    "https://example.com/link2"
+  ],
+  "testimonials": [
+    {
+      "TprofileImage": "https://example.com/testimonial1.png",
+      "name": "Jane Smith",
+      "job": "Product Manager",
+      "description": "John's work on our project was exceptional. He was professional and delivered great results."
+    }
+  ],
+  "payments": {
+    "bankName": "ABC Bank",
+    "accountName": "John Doe",
+    "IFSCCode": "ABC123456",
+    "panCardNo": "ABCDE1234F",
+    "accountType": "Savings",
+    "accountNo": "123456789012",
+    "gstNo": "27AABCU9603R1ZM",
+    "remark": "Payment via bank transfer",
+    "upiImage": "https://example.com/upi-qr.png"
+  }
+}
